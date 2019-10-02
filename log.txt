@@ -1,0 +1,182 @@
+10-Jul-19  11:44:32 - Training data added to database
+10-Jul-19  11:56:16 - {'text': 'ok'} in response to {'search_text': 'ok'}
+10-Jul-19  11:56:27 - Beginning search for close text match
+10-Jul-19  11:56:27 - No value for search_text was available on the provided input
+10-Jul-19  11:56:27 - Processing search results
+10-Jul-19  11:56:27 - Using "{'search_text': 'hi'}" as a close match to "{'search_text': 'hi'}" with a confidence of 0
+10-Jul-19  11:56:27 - Selecting response from 93 optimal responses.
+10-Jul-19  11:56:27 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:56:27 - Response selected. Using "ok"
+10-Jul-19  11:56:27 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:56:27 - {'text': 'ok'} in response to {'search_text': 'hi'}
+10-Jul-19  11:56:39 - Beginning search for close text match
+10-Jul-19  11:56:39 - No value for search_text was available on the provided input
+10-Jul-19  11:56:39 - Processing search results
+10-Jul-19  11:56:39 - Using "{'search_text': 'ac'}" as a close match to "{'search_text': 'ac'}" with a confidence of 0
+10-Jul-19  11:56:39 - Selecting response from 93 optimal responses.
+10-Jul-19  11:56:39 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:56:39 - Response selected. Using "ok"
+10-Jul-19  11:56:39 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:56:39 - {'text': 'ok'} in response to {'search_text': 'ac'}
+10-Jul-19  11:57:22 - C:\Users\nuthalapativ\Desktop\chatbot\admin_assistant\chatapp\views.py changed, reloading.
+10-Jul-19  11:58:59 - {'text': 'ok'} in response to {'text': 'hey'}
+10-Jul-19  11:59:06 - Beginning search for close text match
+10-Jul-19  11:59:06 - No value for search_text was available on the provided input
+10-Jul-19  11:59:06 - Processing search results
+10-Jul-19  11:59:06 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:06 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:06 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:06 - Response selected. Using "ok"
+10-Jul-19  11:59:06 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:06 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:09 - Beginning search for close text match
+10-Jul-19  11:59:09 - No value for search_text was available on the provided input
+10-Jul-19  11:59:09 - Processing search results
+10-Jul-19  11:59:09 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:09 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:09 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:09 - Response selected. Using "ok"
+10-Jul-19  11:59:09 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:09 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:11 - Beginning search for close text match
+10-Jul-19  11:59:11 - No value for search_text was available on the provided input
+10-Jul-19  11:59:11 - Processing search results
+10-Jul-19  11:59:11 - Using "{'text': 'ac'}" as a close match to "{'text': 'ac'}" with a confidence of 0
+10-Jul-19  11:59:11 - Selecting response from 93 optimal responses.
+10-Jul-19  11:59:11 - Selecting response with greatest number of occurrences.
+10-Jul-19  11:59:11 - Response selected. Using "ok"
+10-Jul-19  11:59:11 - BestMatch selected "ok" as a response with a confidence of 0
+10-Jul-19  11:59:11 - {'text': 'ok'} in response to {'text': 'ac'}
+10-Jul-19  11:59:45 - C:\Users\nuthalapativ\Desktop\chatbot\admin_assistant\chatapp\views.py changed, reloading.
+10-Jul-19  12:00:37 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+10-Jul-19  12:00:48 - Beginning search for close text match
+10-Jul-19  12:00:48 - Processing search results
+10-Jul-19  12:00:48 - Similar text found: where should i inform that ac is damaged 0.32
+10-Jul-19  12:00:48 - Similar text found: i need to book a meeting room 0.54
+10-Jul-19  12:00:48 - Using "where should i inform that ac is damaged" as a close match to "i need to know about ac" with a confidence of 0.32
+10-Jul-19  12:00:48 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:48 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:48 - Response selected. Using "for air conditioner related issues please raise ticket $ ac"
+10-Jul-19  12:00:48 - BestMatch selected "for air conditioner related issues please raise ticket $ ac" as a response with a confidence of 0.32
+10-Jul-19  12:00:48 - Adding "i need to know about ac" as a response to "hi"
+10-Jul-19  12:00:48 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'i need to know about ac'}
+10-Jul-19  12:00:53 - Beginning search for close text match
+10-Jul-19  12:00:53 - Processing search results
+10-Jul-19  12:00:53 - Similar text found: Thank you. 0.95
+10-Jul-19  12:00:53 - Similar text found: thank you 1.0
+10-Jul-19  12:00:53 - Using "thank you" as a close match to "thank you" with a confidence of 1.0
+10-Jul-19  12:00:53 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:53 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:53 - Response selected. Using "welcome"
+10-Jul-19  12:00:53 - BestMatch selected "welcome" as a response with a confidence of 1.0
+10-Jul-19  12:00:53 - Adding "thank you" as a response to "i need to know about ac"
+10-Jul-19  12:00:53 - {'text': 'welcome'} in response to {'text': 'thank you'}
+10-Jul-19  12:00:54 - Exception during reset or similar
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 742, in __hash__
+    return self._hash
+AttributeError: _hash
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 730, in _cparts
+    return self._cached_cparts
+AttributeError: _cached_cparts
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+10-Jul-19  12:00:54 - Exception closing connection <sqlite3.Connection object at 0x00000219264008F0>
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 742, in __hash__
+    return self._hash
+AttributeError: _hash
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\pathlib.py", line 730, in _cparts
+    return self._cached_cparts
+AttributeError: _cached_cparts
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 751, in _finalize_fairy
+    fairy._reset(pool)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 938, in _reset
+    pool._dialect.do_rollback(self)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 486, in do_rollback
+    dbapi_connection.rollback()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\pool.py", line 342, in _close_connection
+    self._dialect.do_close(connection)
+  File "C:\Users\nuthalapativ\AppData\Local\Continuum\anaconda3\lib\site-packages\sqlalchemy\engine\default.py", line 492, in do_close
+    dbapi_connection.close()
+sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 6176.
+10-Jul-19  12:00:58 - Beginning search for close text match
+10-Jul-19  12:00:58 - Processing search results
+10-Jul-19  12:00:58 - Similar text found: bye 1.0
+10-Jul-19  12:00:58 - Using "bye" as a close match to "bye" with a confidence of 1.0
+10-Jul-19  12:00:58 - Selecting response from 1 optimal responses.
+10-Jul-19  12:00:58 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:00:58 - Response selected. Using "bye have a nice day"
+10-Jul-19  12:00:58 - BestMatch selected "bye have a nice day" as a response with a confidence of 1.0
+10-Jul-19  12:00:58 - Adding "bye" as a response to "thank you"
+10-Jul-19  12:00:58 - {'text': 'bye have a nice day'} in response to {'text': 'bye'}
+10-Jul-19  12:01:05 - Beginning search for close text match
+10-Jul-19  12:01:05 - Processing search results
+10-Jul-19  12:01:05 - Similar text found: dust bin is full 1.0
+10-Jul-19  12:01:05 - Using "dust bin is full" as a close match to "dust bin is full" with a confidence of 1.0
+10-Jul-19  12:01:05 - Selecting response from 1 optimal responses.
+10-Jul-19  12:01:05 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:01:05 - Response selected. Using "for work station related issues please raise ticket $ hk"
+10-Jul-19  12:01:05 - BestMatch selected "for work station related issues please raise ticket $ hk" as a response with a confidence of 1.0
+10-Jul-19  12:01:05 - Adding "dust bin is full" as a response to "bye"
+10-Jul-19  12:01:05 - {'text': 'for work station related issues please raise ticket ', 'url': 'hk'} in response to {'text': 'dust bin is full'}
+10-Jul-19  12:01:13 - Beginning search for close text match
+10-Jul-19  12:01:13 - Processing search results
+10-Jul-19  12:01:13 - Similar text found: dust bin is full 0.48
+10-Jul-19  12:01:13 - Using "dust bin is full" as a close match to "empty my dust bin" with a confidence of 0.48
+10-Jul-19  12:01:13 - Selecting response from 1 optimal responses.
+10-Jul-19  12:01:13 - Selecting response with greatest number of occurrences.
+10-Jul-19  12:01:13 - Response selected. Using "for work station related issues please raise ticket $ hk"
+10-Jul-19  12:01:13 - BestMatch selected "for work station related issues please raise ticket $ hk" as a response with a confidence of 0.48
+10-Jul-19  12:01:13 - Adding "empty my dust bin" as a response to "dust bin is full"
+10-Jul-19  12:01:13 - {'text': 'for work station related issues please raise ticket ', 'url': 'hk'} in response to {'text': 'empty my dust bin'}
+11-Jul-19  11:16:05 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+11-Jul-19  11:16:13 - Beginning search for close text match
+11-Jul-19  11:16:13 - Processing search results
+11-Jul-19  11:16:13 - Similar text found: request for air conditioner support 0.11
+11-Jul-19  11:16:13 - Similar text found: ac support 0.33
+11-Jul-19  11:16:13 - Similar text found: ac 1.0
+11-Jul-19  11:16:13 - Using "ac" as a close match to "ac" with a confidence of 1.0
+11-Jul-19  11:16:13 - Selecting response from 1 optimal responses.
+11-Jul-19  11:16:13 - Selecting response with greatest number of occurrences.
+11-Jul-19  11:16:13 - Response selected. Using "for air conditioner related issues please raise ticket $ ac"
+11-Jul-19  11:16:13 - BestMatch selected "for air conditioner related issues please raise ticket $ ac" as a response with a confidence of 1.0
+11-Jul-19  11:16:13 - Adding "ac" as a response to "hi"
+11-Jul-19  11:16:13 - {'text': 'for air conditioner related issues please raise ticket ', 'url': 'ac'} in response to {'text': 'ac'}
+02-Oct-19  11:43:41 - {'text': 'Hello user welcome to virtusa how can i help you'} in response to {'text': 'hi'}
+02-Oct-19  11:45:53 - Beginning search for close text match
+02-Oct-19  11:45:53 - Processing search results
+02-Oct-19  11:45:53 - Similar text found: i need to book a meeting room 0.72
+02-Oct-19  11:45:53 - Using "i need to book a meeting room" as a close match to "i want to book a room" with a confidence of 0.72
+02-Oct-19  11:45:53 - Selecting response from 1 optimal responses.
+02-Oct-19  11:45:53 - Selecting response with greatest number of occurrences.
+02-Oct-19  11:45:53 - Response selected. Using "for room booking related facilities please raise ticket $ rb"
+02-Oct-19  11:45:53 - BestMatch selected "for room booking related facilities please raise ticket $ rb" as a response with a confidence of 0.72
+02-Oct-19  11:45:53 - Adding "i want to book a room" as a response to "hi"
+02-Oct-19  11:45:53 - {'text': 'for room booking related facilities please raise ticket ', 'url': 'rb'} in response to {'text': 'i want to book a room'}
